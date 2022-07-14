@@ -1,5 +1,5 @@
 # steer-clear-demo
-This repo includes all the links needed to know more about SteerClear
+SteerClear is an application that was created to encourage people to make a change through boycott. It allows the user to scan barcodes and get suggestions based on their location, they can also filter and search for products, create posts, campaigns, suggest products, follow and like posts, create accounts and login, and many more features.
 
 # Frontend
 You can find the frontend code [here](https://github.com/OsidAbu-alrub/steer-clear-frontend)
